@@ -1,0 +1,35 @@
+header{padding: 5px;
+}
+body{
+    background-color: skyblue;
+    padding: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+    ul a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    }
+    li{
+    display: inline-block;
+    height: 22px;
+    width: 100px;
+    padding: 12px;
+    color: white;
+    border-left: 2px solid green;
+    border-right: 1px solid green;
+    background-color: olive;
+    }
+    li:hover{
+    background-color: lightgreen;
+    border-style: none;
+    }
+    h1{
+    margin-left: 200px;
+    }
+    footer{background-color: lightgreen;
+        color: black;
+        padding: 5px;
+    }
